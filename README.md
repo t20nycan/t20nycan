@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t20nycan
 - 👀 I’m interested in Powershell
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on OSS
 - 📫 How to reach me, dont bother.
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: PPPPPP
